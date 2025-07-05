@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-heyzgj-mcp-feargreedindex-badge.png)](https://mseep.ai/app/mcp-mirror-heyzgj-mcp-feargreedindex)
+
 # CoinMarketCap Universal MCP Server
 
 This project is a Model Context Protocol (MCP) server that provides comprehensive access to CoinMarketCap's cryptocurrency data. It is designed to be easily integrated into Cursor, allowing you to access a wide range of cryptocurrency data directly within the Cursor environment.
